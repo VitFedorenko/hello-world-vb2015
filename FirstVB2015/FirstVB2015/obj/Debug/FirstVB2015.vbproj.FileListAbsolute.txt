@@ -15,7 +15,6 @@ D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB201
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.vbprojResolveAssemblyReference.cache
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.FormHelloworld.resources
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.Resources.resources
-D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.UserControl1.resources
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.vbproj.GenerateResource.Cache
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.exe
 D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.pdb
