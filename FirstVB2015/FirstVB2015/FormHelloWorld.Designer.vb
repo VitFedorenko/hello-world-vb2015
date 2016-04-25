@@ -22,14 +22,16 @@ Partial Class FormHelloworld
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FormHelloworld))
         Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(161, 107)
+        Me.Button1.Font = New System.Drawing.Font("Verdana", 16.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(204, Byte))
+        Me.Button1.Location = New System.Drawing.Point(172, 208)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(159, 104)
+        Me.Button1.Size = New System.Drawing.Size(159, 62)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Press Me :)"
         Me.Button1.UseVisualStyleBackColor = True
@@ -38,7 +40,9 @@ Partial Class FormHelloworld
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(484, 382)
+        Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
+        Me.ClientSize = New System.Drawing.Size(487, 314)
         Me.Controls.Add(Me.Button1)
         Me.Name = "FormHelloworld"
         Me.Text = "FormHelloWorld"
