@@ -1,0 +1,14 @@
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.exe.config
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.exe
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.pdb
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.xml
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.vbprojResolveAssemblyReference.cache
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.Resources.resources
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.vbproj.GenerateResource.Cache
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.exe
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.xml
+c:\users\fedorenko\documents\visual studio 2015\Projects\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.pdb
+D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\bin\Debug\FirstVB2015.exe.config
+D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.exe
+D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.xml
+D:\GitHub\VB2015\hello-world-vb2015\FirstVB2015\FirstVB2015\obj\Debug\FirstVB2015.pdb
